@@ -1,0 +1,21 @@
+.descriptionBox {
+    margin: 55px;
+}
+
+
+.sections button {
+    height: 50px;
+    width: 200px;
+    border: 0.5px solid gray;
+    background-color: white;
+}
+
+.detail {
+    border: 0.7px solid gray;
+    padding: 20px;
+}
+
+.detail p {
+    color: gray;
+    padding: 10px; 
+}

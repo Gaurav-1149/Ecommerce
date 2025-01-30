@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+hr {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: none;
+    height: 1.5px;
+    background-color: black;
+    border: none;
+}
+
+.Cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding : 0px 150px;
+}

@@ -1,0 +1,43 @@
+.Offers {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(180deg, #fde1ff, #4bbf6e22 100%);
+    height: 70vh;
+    width: auto;
+    margin: 40px 200px 40px 200px;
+}
+
+.Left {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 2px;
+    font-size: 20px;
+    padding-left: 200px;
+}
+
+.Left h1 {
+    margin: 0;
+}
+
+.Left button {
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.Right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
